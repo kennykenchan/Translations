@@ -28,7 +28,7 @@
   "lacImportArgs": "<source> [args]",
   "lacUnknownSource": "O Tipo da database é invalida, por favor,cheque a wiki!",
   "lacImportFailed": "Não foi possível executar a importação, por favor, verifique o registo!",
-  "sessionContinue": "Sua sessão último login foi continuada a partir de %sec% segundos atrás.",
+  "sessionContinue": "Sua sessao ultimo login foi continuada a partir de %sec% segundos atrás.",
   "messageLogin": "Por favor use /login <senha>",
   "messageRegister": "Por favor registre-se usando /register <senha>",
   "errorRefreshProfile": "Sua conta foi modifica,por favor re-logue!",
